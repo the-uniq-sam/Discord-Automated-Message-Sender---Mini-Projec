@@ -19,7 +19,7 @@ driver.get("http://www.discord.com/login") \
 
 
 
-And now enter your email and password andd login \
+And now enter your email and password and login \
 It may ask to solve captcha \
 Solve it and make sure App is working fine \
 Now just close the firefox
